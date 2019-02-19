@@ -9,9 +9,8 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.stefanbanu</groupId>
-    <artifactId>todo-web-services</artifactId>
+    <artifactId>FullStack-todos-backend</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>todo-web-services</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>
