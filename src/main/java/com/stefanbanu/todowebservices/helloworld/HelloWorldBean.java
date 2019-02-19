@@ -1,4 +1,4 @@
-package com.stefanbanu.todowebservices;
+package com.stefanbanu.todowebservices.helloworld;
 
 public class HelloWorldBean {
     private String message;
