@@ -1,4 +1,4 @@
-package com.stefanbanu.todowebservices.security;
+package com.stefanbanu.rest.security;
 
 import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.GetMapping;

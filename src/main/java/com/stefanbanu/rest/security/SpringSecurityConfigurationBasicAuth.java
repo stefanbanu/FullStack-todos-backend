@@ -1,4 +1,4 @@
-package com.stefanbanu.todowebservices.security;
+package com.stefanbanu.rest.security;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.http.HttpMethod;

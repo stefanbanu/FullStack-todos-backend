@@ -1,9 +1,9 @@
-package com.stefanbanu.todowebservices.security;
+package com.stefanbanu.rest.security;
 
 public class AuthenticationBean {
     private String message;
 
-    public AuthenticationBean(String message) {
+    AuthenticationBean(String message) {
         this.message = message;
     }
 
